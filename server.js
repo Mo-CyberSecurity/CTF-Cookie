@@ -4,7 +4,7 @@ const express = require("express"),
 
 const port = process.env.YOUR_PORT || process.env.PORT || 8080;
 const step1 = "admin";
-const step2 = "lol_nothing_important_have_a_cool_emoticon('^_^')____(urldecode)";
+const step2 = "nothing_important_keep_funny_smiley('^_^')____(url-decode)";
 const step3 = "^_^";
 const fakeFlag = "bm90U29GYXN0";
 app.use(cookieParser("secret key"));
